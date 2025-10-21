@@ -1,2 +1,2 @@
 # CSPC220
-Projects completed in my 220 level computer science course.
+Weekly practice assignments completed in my 220 level computer science course. All files are written in Java.
